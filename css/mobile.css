@@ -1,0 +1,241 @@
+@media  (max-width: 1350px) {
+	div#myNavbar {
+    float: right;
+    margin: 0 15%;
+}
+.text-slider h1 {
+    font-size: 58px;
+}
+
+}
+@media  (max-width: 1100px) {
+	div#myNavbar {
+    float: right;
+    margin: 0 8%;
+}
+.text-slider h1 {
+    font-size: 58px;
+}
+	}
+@media  (max-width: 991px) {
+	.navbar-toggle {
+    display: block;
+	float: left;
+}
+.navbar-inverse .navbar-toggle {
+    margin: 8px;
+    background: none !important;
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    padding: 7px;
+    border: none;
+    color: #fff;
+    margin-right: 0 !important;
+    margin-left: 10px !important;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-header {
+    width: 20%;
+    float: left;
+}
+nav input {
+    width: 70%;
+    height: 55px;
+    border-radius: 4px;
+    border: 0;
+    padding: 0 10px;
+    background: #474747;
+    margin: 16px 0;
+    float: left;
+    position: absolute;
+    left: 15px;
+    top: 0;
+}
+nav button.search {
+    left: 25px;
+    top: 35px;
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 30px;
+    height: 3px;
+    border-radius: 1px;
+    margin-bottom: 5px;
+}
+nav.navbar.navbar-inverse {
+    height: auto;
+	padding: 6px 0;
+}
+div#myNavbar {
+    border: none;
+    margin: 0;
+    float: none;
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+.navbar-nav>li {
+    float: none;
+	font-size: 16px;
+	display: block;
+	width: 100%;
+	margin: 0;
+	line-height: 30px;
+}
+ul.nav.navbar-nav {
+    margin: 35px auto;
+    text-align: center;
+    background: transparent;
+}
+.nav.navbar-nav.navbar-right {
+    text-align: center;
+    width: 60%;
+    margin: 0 15%;
+    display: block;
+}
+a.logo {
+    float: none;
+}
+.nav .dropdown .dropdown-menu {
+    position: relative;
+    width: 100%;
+    background: #fff;
+}
+.nav .dropdown .dropdown-menu .dropdown .dropdown-menu {
+    margin: 15px 0;
+}
+.block-xs {
+	 display: block !important;
+	 }
+.login.hidden-xs {
+	display: none !important;
+	}
+.container {
+    width: 100%;
+}
+.one-item {
+    width: 100%;
+    min-height: 280px;
+}
+#items .col-lg-12.col-md-12.col-sm-12.col-xs-12 {
+	padding: 0 ;
+	}
+.img-pro {
+    height: 170px !important;
+}
+nav.navbar.navbar-inverse {
+    text-align: center;
+}
+.navbar-brand > img {
+    display: block;
+    width: 120px;
+    position: relative;
+    z-index: 9;
+    margin: 0 auto;
+    left: -10%;
+}
+.login {
+    float: right;
+    margin-top: -25px;
+    margin-right: 10px;
+}
+ul.login-req li a {
+    color: #fff;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 100px;
+}
+.text-slider h1 {
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    margin: 12px auto;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 0 125px;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 130px;
+}
+.container {
+    width: 646px;
+}
+
+
+
+
+
+
+
+
+}
+@media  (max-width: 770px) {
+
+#items .col-lg-3.col-md-3.col-sm-6.col-xs-6 {
+	padding: 0 5px;
+	}
+nav.navbar.navbar-inverse {
+    text-align: center;
+}
+.navbar-brand > img {
+    display: block;
+    width: 120px;
+    position: relative;
+    z-index: 9;
+    margin: 0 auto;
+    left: -30px;
+}
+.login {
+    float: right;
+    margin-top: -25px;
+    margin-right: 10px;
+}
+ul.login-req li a {
+    color: #fff;
+}
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 130px;
+}
+.text-slider h1 {
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    margin: 7px auto;
+    padding: 0;
+    font-size: 50px;
+    line-height: 53px;
+    padding: 0 20px;
+}
+.img-pro {
+    height: 160px !important;
+}
+.container {
+    width: 424px;
+}
+
+}
+@media  (max-width: 480px) {
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 100px;
+}
+.img-pro {
+    height: 135px !important;
+}
+.text-slider h1 {
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    margin: 18px auto;
+    padding: 0;
+    font-size: 28px;
+    line-height: 28px;
+}
+}
+
+
+
+
