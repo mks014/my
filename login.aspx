@@ -14,7 +14,7 @@
     table 
     {
         margin:auto;
-        margin-top:10%;
+        margin-top:11%;
         border:1px solid white;
         border-radius:4px;
     }
